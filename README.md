@@ -1,16 +1,27 @@
-## Hi there 👋
+# नमस्ते (Namaste)🙏🏻
 
-<!--
-**WhiskySam/WhiskySam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Developer | Trojan Developer | Cyber Security Enthusiast.
 
-Here are some ideas to get you started:
+## A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Kotlin", "JavaScript"],
+    askMeAbout: ["Android App Dev", "Android Trojans", "Cyber Security", "Web App Dev (MERN)"],
+    technologies: {
+        mobileApp: {
+            lang: ["Java", "Kotlin"],
+            architecture: ["MVVM", "MVC", "MVP"],
+            lib: ["Dagger", "RxJava", "Retrofit"],
+            db: ["Room", "SQLite"]
+        },
+        webApp: {
+            stack: ["MongoDB", "Express.js", "React", "Node.js"]
+        },
+        misc: ["Firebase", "Android Library AAR"]
+    },
+    architecture: ["Android applications", "Single page applications"],
+    currentFocus: "MERN stack & Mobile Security",
+    funFact: "Learning && Work both are never ending process"
+};
